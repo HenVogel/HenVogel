@@ -55,13 +55,7 @@ Currently I'm working on improving my website and network management and design,
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-# 📊 A Few GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HenVogel&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HenVogel&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HenVogel&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Your Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Gallery
 
