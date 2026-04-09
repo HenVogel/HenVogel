@@ -2,10 +2,10 @@
 I'm an 18 year old Computer Science student attending Wake Tech, for an Information Technology A.A.S in Computer Programming and Development. Outside of my degree, I’ve spent time working towards and earning various certifications; with some of these earned being the
 
 * **CompTIA IT Fundamentals+ Certification**
-* **Python: Information Technology Specialist Certification** *and the*
+* **Python: Information Technology Specialist Certification** *and*
 * **Cisco Certified Support Technician (CCST) Networking Certification**<br>
 
-Currently I'm working on improving my website and network management and design, as well as trying to solidify my baseline computer knowledge.<br>I'm currently learning more about database management (and things surrounding that) and I want to improve my Python skills.<br>I'm also slowly working on creating a couple Steam games as a fun side project.<br>I love dogs and have two that always want attention.<br>I also love game design, reading, and hiking, as well as trying out new videogames and grinding out achievements in them.<br>
+Currently I'm working on improving my website and network management and design, as well as trying to solidify my baseline computer knowledge.<br>I'm currently learning more about database management (and things surrounding that) and I want to improve my Python skills.<br>I'm also very slowly working on creating a couple Steam games as a fun side project.<br>I love dogs and have two that always want attention.<br>I also love game design, reading, and hiking, as well as trying out new videogames and grinding out achievements in them.<br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henryevogel)
