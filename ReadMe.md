@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Henry Vogel </br> </h1>
-I'm an 18 year old Computer Science student attending Wake Tech, for an Information Technology A.A.S in Computer Programming and Development. Outside of my degree, I’ve spent time working towards and earning various certifications; with some of these earned being the
+I'm an 19 year old Computer Science/Information student attending UNC Charlotte, for a degree in Computer Information & Databases. I graduated Wake Tech with an A.A.S in Computer Programming and Development. Outside of my degree, I’ve spent time working towards and earning various certifications; with some of these earned being the
 
 * **CompTIA IT Fundamentals+ Certification**
 * **Python: Information Technology Specialist Certification** *and*
